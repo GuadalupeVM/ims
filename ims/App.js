@@ -8,7 +8,7 @@ import {
 
 export default function App() {
   
-
+// hola
   const [peso, setpeso] = useState();
   const [altura, setdaltura] = useState();
   const [ims, setims] = useState();
